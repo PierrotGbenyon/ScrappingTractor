@@ -59,6 +59,4 @@ Le travail se termine par la création d'un tableau de bord regroupant :
 ## 5. Limites de l’analyse
 
 L'analyse présentée est une analyse descriptive. Elle ne permet pas, à elle seule, d'établir des relations causales.
-# ScrappingTractor
-Projet de scrapping du site de tracteur
-Projet de groupe à rendre d'ici le 05 avril 2026
+
